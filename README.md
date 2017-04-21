@@ -4,4 +4,4 @@ Comme son nom l'indique il s'agit de développer un générateur d'emploi du tem
 
 Language choisi : java avec l'aide de la bibliothèque Choco version 4
 
-Programmation par contraintes.
+Programmation par contraintes. En chantier.../...
